@@ -1,4 +1,4 @@
-## 🔧 一键安装 Swap
+## 🔧 Linux一键开启swap脚本
 
 ### 🐧 Linux 通用命令
 ```bash
@@ -9,3 +9,4 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/HellEXC/swap/ma
 ```bash
 curl -fsSL https://raw.githubusercontent.com/HellEXC/swap/main/swap.sh | sudo bash
 ```
+<img width="540" height="226" alt="image" src="https://github.com/user-attachments/assets/a153d6f2-aa38-473b-8f62-a06299f54549" />
